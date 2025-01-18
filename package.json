@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/edkaresli/SimpleNodeServer#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
   }
 }
